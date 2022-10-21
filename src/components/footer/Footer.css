@@ -1,0 +1,42 @@
+footer {
+    margin: 50px 0;
+    text-align: center;
+}
+
+footer h1 {
+    margin-bottom: 15px;
+}
+
+footer h2, ul {
+    margin-bottom: 15px;
+}
+
+footer ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 25px;
+}
+
+footer ul li {
+    width: 45px;
+}
+
+footer ul li a img {
+    width: 100%;
+    transition: all ease .5s;
+}
+
+footer ul li a img:hover {
+    transform: scale(1.1);
+}
+
+.loading {
+    position: fixed;
+    inset: 0;
+    z-index: 99;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

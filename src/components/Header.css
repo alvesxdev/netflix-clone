@@ -1,0 +1,35 @@
+header {
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    background: transparent;
+    transition: all .7s cubic-bezier(0.17, 0.96, 0.26, 0.36);
+}
+
+header.black {
+    background-color: #141414;
+}
+
+.header--logo {
+    height: 30px;
+}
+
+.header--logo img {
+    height: 100%;
+}
+
+.header--user {
+    height: 45px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.192);
+}
+
+.header--user img {
+    height: 100%;
+}
