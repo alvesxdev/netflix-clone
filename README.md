@@ -3,6 +3,8 @@
 
 > A project using the Netflix website template made in ReactJs
 
+### Acesse aqui: https://alvexdev-netflix-clone.netlify.app
+
 ## Technologies used:
 - ReactJs
 - HTML
@@ -11,5 +13,5 @@
 
 ## Contact
 
-- henrryfps@gmail
-- <a>https://www.linkedin.com/in/alves-dev-06bb08188/
+- Email: henrryfps@gmail
+- Linkedin: https://www.linkedin.com/in/alves-dev-06bb08188/
